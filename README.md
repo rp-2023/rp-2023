@@ -10,6 +10,7 @@ pandas, numpy, matplotlib, plotly, folium, dash
 #### Инструменты:
 jupyter notebook, tableau
 
+##
 
 🧲 Открыт для предложений о сотрудничестве.
 
